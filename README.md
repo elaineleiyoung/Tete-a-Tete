@@ -1,5 +1,6 @@
 # Tete-a-Tete
 #Description An app developed for BostonHacks 2021 for the community track
+
 #Inspiration After meeting each other for the first time today, we realized how out of touch we all were with social situations. While we were brainstorming ideas, we realized that one of the largest issues plaguing society today is the lack of community between people. So, we decided to develop an app that helps people form connections by providing effective and relevant conversation starters.
 
 #What it does It is an android application that utilizes Google Firebase to store the different conversation topics and starters. Depending on your level of intimacy, you can choose different topics that lead to several conversation starters which you can navigate. There is also a topic of the day function and shuffle function for ease of access.
